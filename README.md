@@ -21,4 +21,4 @@ I am a Computer Science researcher and M.Tech candidate specializing in Artifici
 I am currently open to research collaborations, fully funded international PhD/Master's scholarship opportunities, and remote roles in AI training and data annotation.
 
 *  
-*   **Email:*nuzhat277@icloud.com
+*   **Email:[*nuzhat277@icloud.com]
