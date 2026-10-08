@@ -20,5 +20,5 @@ I am a Computer Science researcher and M.Tech candidate specializing in Artifici
 ### 📫 Let's Connect
 I am currently open to research collaborations, fully funded international PhD/Master's scholarship opportunities, and remote roles in AI training and data annotation.
 
-*   **LinkedIn:** [Insert your LinkedIn URL]
-*   **Email:** [Insert your Email Address]
+*  
+*   **Email:*nuzhat277@icloud.com
