@@ -1,6 +1,6 @@
 # Hi there, I'm Nuzhat 👋
 
-I am a Computer Science researcher and M.Tech candidate specializing in Artificial Intelligence, algorithmic optimization, and data engineering. I focus on building multi-modal AI systems and robust backend architectures.
+I am a Computer Science researcher specializing in Artificial Intelligence, algorithmic optimization, and data engineering. I focus on building multi-modal AI systems and robust backend architectures.
 
 ### 🔬 Current Focus & Research
 *   **Multi-Modal AI:** Researching language-adaptive conversational AI for cardiovascular disease triage using open-source models like Qwen.
@@ -20,5 +20,5 @@ I am a Computer Science researcher and M.Tech candidate specializing in Artifici
 ### 📫 Let's Connect
 I am currently open to research collaborations, fully funded international PhD/Master's scholarship opportunities, and remote roles in AI training and data annotation.
 
-*  
+
 *   Email:[nuzhat277@icloud.com]
